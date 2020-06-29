@@ -45,7 +45,12 @@ SignUp
 Login window will open so click on the SignUp button (if you haven’t made any) as shown in the below screenshot .
 Now enter your details. if any error is made while signing up an error will be popped as shown in screenshot below.
 
-![Screenshot from 2020-06-07 11-43-47](https://user-images.githubusercontent.com/32239181/86005443-4d864e00-ba32-11ea-946e-558881dae99c.png)
+
+![Screenshot from 2020-06-07 11-41-23](https://user-images.githubusercontent.com/32239181/86005776-ace45e00-ba32-11ea-8f84-3451e547e410.png)
+
+![Screenshot from 2020-06-07 11-51-11](https://user-images.githubusercontent.com/32239181/86005702-96d69d80-ba32-11ea-9b4c-6dcde9d3034a.png)
+
+
 
 
 
@@ -68,6 +73,7 @@ So enter your task details here
 4) Set Priority- You can see the priority on the color of ‘tag’ badge i.e if color of ‘tag’ badge is red then priority high . If color is yellow then medium priority and green color for low priority.
 
 
+![Screenshot from 2020-06-07 11-43-47](https://user-images.githubusercontent.com/32239181/86005443-4d864e00-ba32-11ea-946e-558881dae99c.png)
 Features-
 
 Edit,Delete – You have the option of deleting and editing any task. Note that while editing make sure to reset the Due date parameter everytime when the Edit box is opened.
