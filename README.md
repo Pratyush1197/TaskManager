@@ -45,6 +45,9 @@ SignUp
 Login window will open so click on the SignUp button (if you haven’t made any) as shown in the below screenshot .
 Now enter your details. if any error is made while signing up an error will be popped as shown in screenshot below.
 
+![Screenshot from 2020-06-07 11-43-47](https://user-images.githubusercontent.com/32239181/86005443-4d864e00-ba32-11ea-946e-558881dae99c.png)
+
+
 
 
 Now on successful creation of account a success message will be shown .Now go to login page and sign in.
